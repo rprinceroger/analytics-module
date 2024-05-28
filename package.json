@@ -1,0 +1,12 @@
+{
+  "name": "DPH01",
+  "version": "1.0.0",
+  "description": "Reference for Analytics using Python and SQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prince",
+  "license": "ISC"
+}
