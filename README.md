@@ -19,3 +19,8 @@ To enable Scripts on Windows systems:
 1. Create a notebook (with the .ipynb extension) or access a notebook from the repository.
 2. Select Kernel > Python Environments > venv.
 3. You're all set!
+
+## Developer
+
+- **Developer Name:** Prince Roger Robielos
+- **Email:** prince.robielos@gmail.com
